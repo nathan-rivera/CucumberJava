@@ -11,7 +11,7 @@ This repository contains sample Cucumber tests using Java and configured to run 
 - [Cucumber for Java](https://cucumber.io/docs/installation/java/)
 
 ### Setup
-1. Clone this repository: `git clone https://github.com/yourusername/your-cucumber-java-project.git`
+1. Clone this repository: `git clone https://github.com/nathan-rivera/CucumberJava.git
 2. Open Eclipse IDE.
 3. Import the project into Eclipse:
    - File -> Open Projects from File System...
@@ -41,7 +41,7 @@ This repository contains sample Cucumber tests using Java and configured to run 
 - [Eclipse IDE Documentation](https://www.eclipse.org/documentation/)
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
+- [Your Name](https://github.com/nathan-rivera)
 - Feel free to contribute by forking and creating pull requests.
 
 ## License
